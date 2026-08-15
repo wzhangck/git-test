@@ -1,3 +1,2 @@
 import pandas as pd
-
-a = 10
+# a = 10
